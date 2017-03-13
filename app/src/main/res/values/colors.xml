@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#EF4566</color>
+    <color name="colorPrimaryDark">#EF4566</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="background_toolbar">#e3333333</color>
+    <color name="tabsScrollColor">#8a140e</color>
+    <color name="textColorPrimary">#FFFFFF</color>
+    <color name="windowBackground">#FFFFFF</color>
+    <color name="navigationBarColor">#000000</color>
+</resources>

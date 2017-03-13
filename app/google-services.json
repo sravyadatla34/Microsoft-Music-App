@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "878093754505",
+    "firebase_url": "https://jazz-it-up-8cedc.firebaseio.com",
+    "project_id": "jazz-it-up-8cedc",
+    "storage_bucket": "jazz-it-up-8cedc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878093754505:android:2d0e019cd0f275a4",
+        "android_client_info": {
+          "package_name": "com.jazzitup.music"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "878093754505-e7vkd0ra8abl4ck3ortuern4626o1rmv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1v2hYaWS2B9Iqzl2VLsePzcD_-u3WrwU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
