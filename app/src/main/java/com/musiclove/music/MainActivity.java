@@ -151,7 +151,6 @@ public class MainActivity extends AppCompatActivity {
         mediaPlayer.setOnPreparedListener(new MediaPlayer.OnPreparedListener() {
             @Override
             public void onPrepared(MediaPlayer mp) {
-                //Lancer la chanson
                 togglePlay(mp);
             }
         });
@@ -170,15 +169,12 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-        //Gestion de la seekbar
         handleSeekbar();
-
-        //Controle de la chanson
+        //music controls
         pushPlay();
         pushPrevious();
         pushNext();
-
-        //Gestion du click sur le bouton rechercher
+        //search
         fab_search.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
